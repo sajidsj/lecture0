@@ -1,0 +1,14 @@
+table, tr, th, td{
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+#header{
+    font: Sansarif;
+    color: red;
+    background: lightblue;
+}
+#table{
+    font: Sansarif;
+    color: blueviolet;
+    background: lightpink;
+}
