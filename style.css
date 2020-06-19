@@ -4,11 +4,11 @@ table, tr, th, td{
 }
 #header{
     font: Sansarif;
-    color: red;
-    background: lightblue;
+    color: burlywood;
+    background: darkorchid;
 }
 #table{
     font: Sansarif;
-    color: blueviolet;
-    background: lightpink;
+    color: darkolivegreen;
+    background: lightsalmon;
 }
