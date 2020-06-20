@@ -15,3 +15,9 @@ table, tr, th, td{
     background: lightsalmon;
     text-align: center;
 }
+#middle{
+    font: Sansarif;
+    color: darkolivegreen;
+    background: lightsteelblue;
+    text-align: center;
+}
